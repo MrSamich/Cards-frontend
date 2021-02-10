@@ -1,0 +1,59 @@
+html body {
+    background-color:gray;
+    margin: 0;
+    min-height: 100%;
+}
+
+h1 {
+    text-align: center;
+}
+
+nav {
+    margin-top: 30px;
+    margin-bottom: 50px;
+    margin-left: 20px;
+    margin-right: 20px;
+
+}
+
+ul {
+    justify-content: space-between;
+    display: flex;
+}
+
+ul li {
+    display: flex;
+
+}
+
+ul li a {
+    opacity: 50%;
+    font-size: 17px;
+    text-decoration: none;
+}
+
+.Names {
+    text-align: center;
+}
+
+.Nametile{
+    font-size: 20px;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
+img {
+    border-radius: 50%;
+}
+.Namestext {
+    position: relative;
+    bottom: 225px;
+    display: inline-block;
+}
+.imgsize {
+    width: 500px;
+    height: 500px;
+    border: solid black;
+}
